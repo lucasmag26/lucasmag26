@@ -2,4 +2,4 @@
 
 Sou estudante de Banco de Dados na FATEC - SJC
 
-Busco aprender mais sobre programação e análise de Dados.
+Busco aprender mais sobre Programação e Análise de Dados.

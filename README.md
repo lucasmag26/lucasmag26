@@ -15,7 +15,7 @@
 </div>
 
 
- <div style = "display: inline_block;"> <br>
+ <div style = "display: inline_block; margin: 0 auto;"> <br>
   <img  align = "center" alt = "Lucas-php" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img  align = "center" alt = "Lucas-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  align = "center" alt = "Lucas-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -30,9 +30,5 @@
   <div> 
   <a href="mailto:lucasmag261099@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/lucas-magno-6a5765137" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://instagram.com/lucasmagno26" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> 
- 
-  ![Snake animation](https://github.com/lucasmag26/lucasmag26/blob/output/github-contribution-grid-snake.svg)  
-
- 
+  <a href="https://instagram.com/lucasmagno26" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>   
  </div>

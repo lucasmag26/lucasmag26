@@ -15,7 +15,7 @@
 </div>
 
 
- <div style = "display: inline_block; margin: 0 auto;"> <br>
+ <div style = "display: inline_block; align = center"> <br>
   <img  align = "center" alt = "Lucas-php" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img  align = "center" alt = "Lucas-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  align = "center" alt = "Lucas-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />

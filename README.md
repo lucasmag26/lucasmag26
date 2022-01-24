@@ -20,7 +20,7 @@
   <img  align = "center" alt = "Lucas-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  align = "center" alt = "Lucas-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img  align = "center" alt = "Lucas-JS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img  align = "center" alt = "Lucas-Bootstrap" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+   <img  align = "center" alt = "Lucas-Bootstrap" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img  align = "center" alt = "Lucas-python" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img  align = "center" alt = "Lucas-Oracle" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img  align = "center" alt = "Lucas-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
